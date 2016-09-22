@@ -1,4 +1,4 @@
-public class Main {
+public class HWWithDocker {
 
 
     public static void main(String[] args) {
